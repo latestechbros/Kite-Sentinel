@@ -1,0 +1,5 @@
+{
+  "name": "Kite P&F Sentinel",
+  "description": "Automated Zerodha Kite monitor for Point & Figure charts (30m interval). Features ATR-based box sizing, column change alerts, and Telegram integration, optimized for 24/7 EC2 execution.",
+  "requestFramePermissions": []
+}
